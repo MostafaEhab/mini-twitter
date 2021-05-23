@@ -4,8 +4,8 @@
   "description": "mern stack project",
   "main": "test.js",
   "scripts": {
-    "start": "node test.js",
-    "server": "nodemon test.js"
+    "start": "node app.js",
+    "server": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
